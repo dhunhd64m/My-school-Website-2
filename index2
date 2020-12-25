@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>MY SCHOOL WEBSITE-2</title>
+        <meta name="description" content="An interactive getting started guide for Brackets.">
+        <link rel="stylesheet" href="main.css">
+    </head>
+    <body>
+        
+        <h1>MY SCHOOL WEBSITE-2</h1>
+        <h2>St. Xavier’s School is celebrating its 60th Anniversary</h2>
+        
+        <!--
+            MADE WITH <3 AND JAVASCRIPT
+        -->
+        
+        <p>
+            Welcome to the Official Website for St. Xaviers High School. This collection is almost like a museum and second only to the BNHS section at the Prince of Wales Museum, Rumbas. Notable among these is the butterfly and bird collection on the first floor and the stuffed tiger on the third floor. The tiger was donated by the Maharaja of Vanzra, Gujrat who was an ex-student of the school. The butterfly and bird collection is the work of Brother Navarro, a Spanish Jesuit and a naturalist who was associated with the school. 
+        </p>
+        
+        <!--
+            WHAT IS BRACKETS?
+        -->
+    
+        
+        <h3>Computer Room</h3>
+        <p>
+            At St. Xaviers the emphasis is on quality education and this tradition is reflected very clearly in our Computer Department also. We have made it a point to keep our children abreast with the fast paced changes in the computer world, rather than making them follow the stereo-type computer syllabus.We want to nurture creative and thinking minds that are forever exploring new realms in the computer arena.
+        </p>
+        
+        <samp>
+            Once you're ready to get out of this sample project and edit your own code, you can use the dropdown
+            in the left sidebar to switch folders. Right now, the dropdown says "Getting Started" - that's the
+            folder containing the file you're looking at right now. Click on the dropdown and choose "Open Folder…"
+            to open your own folder.
+            You can also use the dropdown later to switch back to folders you've opened previously, including this
+            sample project.
+        </samp>
+        
+        <h3>Library</h3>
+        <p>
+            Our library’s objective is to inculcate the habit of reading; children are introduced to the library and books right from the Kindergarten level. They realize the joys of reading as well as the importance of books, in their formative years itself.
+        </p>
+        
+    
+        
+        <!--
+            THE RELATIONSHIP BETWEEN HTML, CSS AND JAVASCRIPT
+        -->
+        <h3>Play Grounds</h3>
+        <p>
+            Open space, fresh air, voices cheering and spirits soaring is what you will see on our playgrounds. These days with little or no play area and time as well; we have ensured that our children do not miss out on it at school also. We have a huge play area which accommodates a football field.
+        </p>
+    
